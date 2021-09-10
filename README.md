@@ -5,7 +5,7 @@
 ![Univdev's Stats](https://github-readme-stats.vercel.app/api?username=univdev)
 ## Military Record
 - 정보처리분야 **산업기능요원**
-- 2021.09.10 ~ 복무중
+- 2021.09.09 ~ 복무중
 ## Recommendation
 - [Click Here!](https://github.com/univdev/recommends)
 - 잠깐 만난 지인, 즐겁게 논 친구 모두 추천사를 남기실 수 있어요!
