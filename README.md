@@ -3,7 +3,7 @@
 🎈 *웹 프론트엔드 기술 리더십을 갖추고 엔지니어링팀을 이끌 줄 아는 젊은 리더*
 
 ![Univdev's Stats](https://github-readme-stats.vercel.app/api?username=univdev)
-## Military Record
+## Military Record 🧥
 - 정보처리분야 **산업기능요원**
 - 2021.09.09 ~ 복무중
 ## Recommendation
