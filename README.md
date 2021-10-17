@@ -30,7 +30,7 @@ Blog: https://univdev.tistory.com
 - **2015** GTQ포토샵 1급
 - **2016** 웹디자인 기능사
 - **2020** 정보처리산업기사
-## GOAL 4B
+## GOALS 4B
 - Be famous 😎
 - Be smart 🔧
 - Be a rich 💰
