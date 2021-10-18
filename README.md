@@ -6,7 +6,8 @@
 ## Introduce ME
 제가 누군지 궁금하시다면 [여기](https://univdev.notion.site/Chanyoung-Park-39a6c23d5c874895a30ed08423bd3da4)를 눌러주세요!
 
-Blog: https://univdev.tistory.com
+- Blog: https://univdev.tistory.com
+- Programmers: Univdev
 ## Military Record 🧥
 - 정보처리분야 **산업기능요원**
 - 2021.09.09 ~ 복무중 (2월차)
