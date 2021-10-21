@@ -9,7 +9,7 @@
 - Blog: https://univdev.tistory.com
 - Programmers: Univdev
 ## Military Record 🧥
-- 정보처리분야 **산업기능요원 (대체복무)**
+- 정보처리분야 **산업기능요원**
 - 2021.09.09 ~ 복무중 (2월차)
 ## Recommendation
 - [Click Here!](https://github.com/univdev/recommends)
