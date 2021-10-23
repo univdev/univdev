@@ -8,6 +8,10 @@
 
 - Blog: https://univdev.tistory.com
 - Programmers: Univdev
+## Motto
+```
+함수는 최소한의 정보로 동작해야 한다.
+```
 ## Military Record 🧥
 - 정보처리분야 **산업기능요원**
 - 2021.09.09 ~ 복무중 (2월차)
