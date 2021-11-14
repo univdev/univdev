@@ -7,6 +7,8 @@
 제가 누군지 궁금하시다면 [여기](https://univdev.notion.site/Chanyoung-Park-39a6c23d5c874895a30ed08423bd3da4)를 눌러주세요!
 
 - Blog: https://univdev.tistory.com
+- Programmers: Univdev
+- Instangram: pcydeveloper
 ## Recommendation
 - [Click Here!](https://github.com/univdev/recommends)
 - 잠깐 만난 지인, 즐겁게 논 친구 모두 추천사를 남기실 수 있어요!
