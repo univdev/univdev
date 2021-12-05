@@ -3,7 +3,7 @@
 🎈 *웹 프론트엔드 기술 리더십을 갖추고 엔지니어링팀을 이끌 줄 아는 젊은 리더*
 
 ![Univdev's Stats](https://github-readme-stats.vercel.app/api?username=univdev)
-## Introduce ME
+## Introduce
 제가 누군지 궁금하시다면 [여기](https://univdev.notion.site/Chanyoung-Park-39a6c23d5c874895a30ed08423bd3da4)를 눌러주세요!
 
 - Blog: https://univdev.tistory.com
