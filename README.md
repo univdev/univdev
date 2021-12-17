@@ -17,6 +17,7 @@
 ## Skills
 - ⛰️ Vue.js / Nuxt.js
 - 💻 Javascript, CSS3, HTML5
+- 📱 React.js, React Native
 ## Awards ✨
 - **2014** 고교생 멀티미디어 경진대회 '홈페이지 제작' 부문 장려상
 - **2015** 경기도 지방기능경기대회 웹 개발 부문 우수상
