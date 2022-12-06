@@ -9,7 +9,8 @@
 - [Resume][Resume]
 - [Blog][Blog]
 ## Skills
-- ⛰️ Vue.js / Nuxt.js
+- ⛰️ Vue.js / Nuxt.js, Vuex
+- ⚛️ React.js, Next.js, Mobx, Context, Hooks
 - 💻 Javascript, CSS3, HTML5
 - 📱 React.js, React Native
 ## Recommendation
