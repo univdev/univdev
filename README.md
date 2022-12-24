@@ -12,7 +12,7 @@
 - ⛰️ Vue.js / Nuxt.js, Vuex
 - ⚛️ React.js, Next.js, Mobx, Context, Hooks
 - 💻 Javascript, CSS3, HTML5
-- 📱 React.js, React Native
+- 📱 React Native, WebView
 ## Recommendation
 - [Click Here!](https://best.univdev.page)
 - 잠깐 만난 지인, 즐겁게 논 친구 모두 추천사를 남기실 수 있어요!
