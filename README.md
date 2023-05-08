@@ -1,7 +1,5 @@
 # Chanyoung Park, Frontend Engineer
 
-🎈 *웹 프론트엔드 기술 리더십을 갖추고 엔지니어링팀을 이끌 줄 아는 리더*
-
 ![Univdev's Stats](https://github-readme-stats.vercel.app/api?username=univdev)
 [![trophy](https://github-profile-trophy.vercel.app/?username=univdev)](https://github.com/ryo-ma/github-profile-trophy)
 ## Introduce
