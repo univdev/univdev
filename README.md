@@ -8,7 +8,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23000">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23FFF">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23FFF">
-  <img alt="Lerna" src="https://img.shields.io/badge/Lerna-%239333EA?style=for-the-badge&logo=lerna">
+  <img alt="Lerna" src="https://img.shields.io/badge/Lerna-%239333EA?style=for-the-badge">
   <img alt="React Query" src="https://img.shields.io/badge/React%20Query-%23FF4154?style=for-the-badge&logo=%3Cimg%20alt%3D%22Static%20Badge%22%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FLerna-%25239333EA%3Fstyle%3Dfor-the-badge%26logo%3Dlerna%22%3E">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23FFF">
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23FFF">
