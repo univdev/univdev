@@ -16,7 +16,7 @@
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23FFF">
 </p>
 
-<h2 align="center">Deployment</h2>
+<h2 align="center">📦 Deployment</h2>
 <p align="center">
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=%23FFF">
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=%23FFF">
